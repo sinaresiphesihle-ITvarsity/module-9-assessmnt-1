@@ -1,0 +1,102 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1654200828752-0f310924e1b3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1888&q=80);
+    font-family:helvetica;
+    text-align: center;   
+}
+h1{
+    top: 0;
+    left: 0;
+    margin: auto;
+    color: white;
+    font-family:helvetica;
+    border: 2px solid white;
+    border-radius: 10px;
+    font-size: 3vw;
+    background-color: black;
+}
+
+.container{
+    width: 100%;
+}
+
+p{
+color: white;
+    font-family: helvetica;
+    border: 2px solid white;
+    border-radius: 10px;
+    font-size: 3vw;
+    background-color: black;
+}
+
+#clock{
+    width: 100%;
+    text-align: center;
+}
+
+
+
+#progressBarContainer{
+    transform: rotate(90deg);
+}
+
+.buttonSection{
+    width: 100%;
+    padding-top: 3rem;
+}
+
+.roundButton{
+    color: white;
+    border-radius: 50%;
+    background-color: black;
+    border: 2px solid white;
+    width: 5rem;
+    height: 5rem;
+    font-size:1rem;
+    font-family:helvetica;
+}
+
+.button1{
+    float: left;
+    width: 49%
+}
+
+button2{
+    float:right;
+    width: 49%;
+}
+
+.selector{
+    color: white;
+    background-color:black;
+    padding: .4rem 1.4rem .4rem .4rem;
+    width: 30%;
+    border-radius:10px;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    font-size: 1rem;
+    text-align: center;
+    border: 2px solid white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
